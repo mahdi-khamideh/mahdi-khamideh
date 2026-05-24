@@ -1,4 +1,7 @@
-##This is Mahdi Khamideh
+## This is Mahdi Khamideh
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%26+Engineer;Federated+Learning+Optimization;Distributed+AI+Systems;Ray+%7C+vLLM+%7C+Scalable+Inference;Research+Papers+%2B+Business+AI+Platforms" />
+</p>
 
 **AI Researcher & Engineer**  
 Federated Learning · Distributed Systems · Ray · vLLM · AI Platforms
