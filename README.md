@@ -9,7 +9,9 @@ Federated Learning · Distributed Systems · Ray · vLLM · AI Platforms
 I focus on writing research papers, building scalable AI systems, and developing high-impact business ideas into practical AI platforms.
 
 My work combines research, engineering, and product thinking across federated learning, distributed machine learning, scalable inference, and AI infrastructure.
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 ## Focus Areas
 
 - Research paper writing and implementation
@@ -18,13 +20,17 @@ My work combines research, engineering, and product thinking across federated le
 - Ray and vLLM engineering
 - Scalable AI infrastructure
 - Business-focused AI platform ideas
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 ## Current Work
 
 - Building a scalable federated and distributed learning platform
 - Preparing research papers for publication
 - Designing AI platform ideas for real-world business problems
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 ## Tech Stack
 
 ### Languages
@@ -51,7 +57,10 @@ My work combines research, engineering, and product thinking across federated le
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)## Open To
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+## Open on
 Collaboration, research opportunities, engineering roles, and AI platform/business ideas.
 
 ## Connect
