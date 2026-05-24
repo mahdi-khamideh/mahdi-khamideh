@@ -1,15 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=140&section=header&text=Mahdi%20Khamideh&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Researcher+%26+Engineer;Writing+research+papers+on+Federated+Learning+and+Distributed+AI;Building+scalable+AI+systems+with+Ray+and+vLLM;Turning+strong+business+ideas+into+practical+AI+platforms" />
-</p>
-
-<p align="center">
-  <b>I turn research ideas into scalable AI systems — and business ideas into AI platforms.</b>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
