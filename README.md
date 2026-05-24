@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
@@ -63,3 +63,7 @@ Collaboration, research opportunities, engineering roles, and AI platform/busine
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](your-google-scholar-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-khamideh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
