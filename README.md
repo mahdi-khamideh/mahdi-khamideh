@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%26+Engineer;Federated+Learning+Optimization;Distributed+AI+Systems;Ray+%7C+vLLM+%7C+Scalable+Inference;Research+Papers+%2B+Business+AI+Platforms" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Researcher+%26+Engineer;Federated+Learning+Optimization;Distributed+AI+Systems;Ray+%7C+vLLM+%7C+Scalable+Inference;Business+AI+Platforms" />
 </p>
 
 **AI Researcher & Engineer**  
