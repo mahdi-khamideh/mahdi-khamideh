@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=header&text=Mahdi%20Khamideh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 **AI Researcher & Engineer**  
 Federated Learning · Distributed Systems · Ray · vLLM · AI Platforms
 
